@@ -15,6 +15,7 @@ Welcome to DyCode's documentation!
    c++/index
    emacs/index
    vim/index
+   tool/index
    about
 
 Indices and tables
